@@ -1,1 +1,2 @@
 adding a commit to text file
+adding a conflict
