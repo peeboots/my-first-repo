@@ -1,0 +1,17 @@
+commit 88af45f47797f345da5bdd4aabf38cb2e4a7b5ce
+Author: peeboots <tech101@live.com>
+Date:   Wed Nov 27 20:35:32 2019 -0500
+
+    added gitignore
+
+commit 733a022fe13d93b8e3ff34a98e293c01f179ae52
+Author: peeboots <tech101@live.com>
+Date:   Wed Nov 27 20:19:59 2019 -0500
+
+    added two files
+
+commit 50faca07633b63f1b272af5bfa8be7599cc7d079
+Author: peeboots <tech101@live.com>
+Date:   Wed Nov 27 20:12:11 2019 -0500
+
+    added readme.txt
